@@ -1,6 +1,6 @@
 # 🏠 House Price Regression Analysis
 
-> A from-scratch implementation of Linear, Ridge, and Lasso Regression to predict house prices — built without relying on sklearn's model classes, covering OLS derivation, gradient descent, and regularization from the ground up.
+> A from-scratch implementation of Linear, Ridge, and Lasso Regression to predict house prices , built without relying on sklearn's model classes, covering OLS derivation, gradient descent, and regularization from the ground up.
 
 ---
 
